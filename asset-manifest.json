@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/traysimay.github.io/marker-maker/static/js/main.c3e5739c.chunk.js",
-    "main.js.map": "/traysimay.github.io/marker-maker/static/js/main.c3e5739c.chunk.js.map",
-    "runtime-main.js": "/traysimay.github.io/marker-maker/static/js/runtime-main.bdef7d62.js",
-    "runtime-main.js.map": "/traysimay.github.io/marker-maker/static/js/runtime-main.bdef7d62.js.map",
-    "static/js/2.b2ba3a83.chunk.js": "/traysimay.github.io/marker-maker/static/js/2.b2ba3a83.chunk.js",
-    "static/js/2.b2ba3a83.chunk.js.map": "/traysimay.github.io/marker-maker/static/js/2.b2ba3a83.chunk.js.map",
-    "index.html": "/traysimay.github.io/marker-maker/index.html",
-    "precache-manifest.89b68865d64b73ab12de9fa99582f2ca.js": "/traysimay.github.io/marker-maker/precache-manifest.89b68865d64b73ab12de9fa99582f2ca.js",
-    "service-worker.js": "/traysimay.github.io/marker-maker/service-worker.js",
-    "static/js/2.b2ba3a83.chunk.js.LICENSE.txt": "/traysimay.github.io/marker-maker/static/js/2.b2ba3a83.chunk.js.LICENSE.txt",
-    "static/media/template.png": "/traysimay.github.io/marker-maker/static/media/template.2a37cc0d.png"
+    "main.js": "/marker-maker/static/js/main.c3e5739c.chunk.js",
+    "main.js.map": "/marker-maker/static/js/main.c3e5739c.chunk.js.map",
+    "runtime-main.js": "/marker-maker/static/js/runtime-main.1e555792.js",
+    "runtime-main.js.map": "/marker-maker/static/js/runtime-main.1e555792.js.map",
+    "static/js/2.b2ba3a83.chunk.js": "/marker-maker/static/js/2.b2ba3a83.chunk.js",
+    "static/js/2.b2ba3a83.chunk.js.map": "/marker-maker/static/js/2.b2ba3a83.chunk.js.map",
+    "index.html": "/marker-maker/index.html",
+    "precache-manifest.112db3fc07b3aa8e726eafa9ddb5c6b1.js": "/marker-maker/precache-manifest.112db3fc07b3aa8e726eafa9ddb5c6b1.js",
+    "service-worker.js": "/marker-maker/service-worker.js",
+    "static/js/2.b2ba3a83.chunk.js.LICENSE.txt": "/marker-maker/static/js/2.b2ba3a83.chunk.js.LICENSE.txt",
+    "static/media/template.png": "/marker-maker/static/media/template.2a37cc0d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdef7d62.js",
+    "static/js/runtime-main.1e555792.js",
     "static/js/2.b2ba3a83.chunk.js",
     "static/js/main.c3e5739c.chunk.js"
   ]
